@@ -1,7 +1,7 @@
-class Tittle
-  attr_accessor :post
+class Post
+  attr_accessor :name
 
   def initialize
-    @post = post
+    @name = name
   end
 end
