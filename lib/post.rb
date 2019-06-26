@@ -5,7 +5,7 @@ class Post
     @name = name
   end
 
-  def title=(name)
+  def title(name)
     name
   end
 end
