@@ -1,7 +1,7 @@
 class Tittle
-  attr_accessor :name
+  attr_accessor :post
 
   def initialize
-    @name = name
+    @post = post
   end
 end
