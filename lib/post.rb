@@ -5,9 +5,9 @@ class Post
   #  @name = name
   #end
 
-  attr_accessor :name
+  attr_accessor :title
 
-  def title=(name)
-    @name = name
+  def title=(title)
+    @title = title
   end
 end
