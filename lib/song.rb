@@ -2,6 +2,7 @@ class Song
   attr_accessor :title
 
   def title=(title)
-    @tit = title
+    @title = title
   end
+
 end
