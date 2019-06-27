@@ -4,5 +4,6 @@ class Song
   def title=(title)
     @title = title
   end
-
+  def artist=
+  end
 end
